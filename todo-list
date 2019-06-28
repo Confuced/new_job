@@ -1,0 +1,79 @@
+# search Engine
+google-hack: 搜索结果去重
+
+# Other
+dev-ops, ops代表什么?
+dev代表开发, ops代表运维.
+和陈绍立的对话梳理:625:
+git activity:
+书写假设交接文档, 整理自己的知识
+markdown内部锚点
+字符编码问题.
+
+# OpenStack
+CloudMan的OpenStack教程: 不可以画上班时间看, 营养价值不高. 而且非常的枯燥, 下午看容易犯瞌睡:
+什么是cps?
+
+# Windows工具和技巧
+gitbash配置环境变量.?
+如何设置windows环境项目的编码呢?
+如何查看python2和python3的安装位置啊?
+python2, 重装发现 DONE
+
+# Linux
+历史记录去重?
+
+- colorscheme的选项.
+
+# Mysql
+- The MySQL server is running with the --skip-grant-tables option
+参考思路: https://blog.csdn.net/Elliottx/article/details/77463977
+- 如何取消密码? TODO
+- gsql是什么?
+
+# 待转移到手机
+- grep
+https://www.cnblogs.com/peida/archive/2012/12/17/2821195.html
+
+# bash shell脚本学习
+
+# 写作
+什么是敏捷开发?
+
+# Pycharm
+搜索快捷键定位和修改.
+
+# 阅读
+阅读阮一峰的教程.
+
+# 发起活动, 写 Linux 教程.
+
+# daily
+- 写每日日报, 做了什么
+- 创建和修改今日工作和学习计划
+- 完成今日学习计划
+
+# template
+9:00-9:40
+9:50-10:30
+10:30-11:20
+11:30-12:00
+
+14:00-14:40
+14:50-15:30
+15:50-16:30
+16:40-17:30
+
+# Job_related
+写一个笔记记录如何调用Cinder_api
+继续整理和陈绍立的对话.
+评价每个文档的作用和价值
+继续查看OpenStack文档
+写一个在中软工作的见闻故事或者说工作日记.
+
+
+# python2和3的区别
+
+# PyPI是什么?
+是安装包的线上仓库.
+参考: https://blog.csdn.net/weixin_42139375/article/details/82711201
