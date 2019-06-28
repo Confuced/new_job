@@ -1,0 +1,13 @@
+# chrome
+ctrl + tab [+ shift]: 标签移动
+alt + 左右箭头, 前进后退
+ctrl + r: 刷新
+
+
+# Pycharm
+setting-keymap-"find in path" : ctrl + shift + f: 同时取消搜狗繁体简体切换.
+针对Darkcular主题的黑色背景,鼠标颜色不明显, 设置 editor-color-caret 相关.
+
+# windows
+win + 左箭头, 窗口左边
+win + shift + s: 自定义截屏, PrtSc:全屏截屏.
