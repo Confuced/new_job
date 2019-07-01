@@ -2,28 +2,14 @@
 google-hack: 搜索结果去重
 
 # Other
-dev-ops, ops代表什么?
-dev代表开发, ops代表运维.
-和陈绍立的对话梳理:625:
 git activity:
 书写假设交接文档, 整理自己的知识
-markdown内部锚点
-字符编码问题.
-
-# OpenStack
-CloudMan的OpenStack教程: 不可以画上班时间看, 营养价值不高. 而且非常的枯燥, 下午看容易犯瞌睡:
-什么是cps?
 
 # Windows工具和技巧
 gitbash配置环境变量.?
-如何设置windows环境项目的编码呢?
-如何查看python2和python3的安装位置啊?
-python2, 重装发现 DONE
 
 # Linux
 历史记录去重?
-
-- colorscheme的选项.
 
 # Mysql
 - The MySQL server is running with the --skip-grant-tables option
@@ -35,14 +21,6 @@ python2, 重装发现 DONE
 - grep
 https://www.cnblogs.com/peida/archive/2012/12/17/2821195.html
 
-# bash shell脚本学习
-
-# 写作
-什么是敏捷开发?
-
-# Pycharm
-搜索快捷键定位和修改.
-
 # 阅读
 阅读阮一峰的教程.
 
@@ -52,17 +30,6 @@ https://www.cnblogs.com/peida/archive/2012/12/17/2821195.html
 - 写每日日报, 做了什么
 - 创建和修改今日工作和学习计划
 - 完成今日学习计划
-
-# template
-9:00-9:40
-9:50-10:30
-10:30-11:20
-11:30-12:00
-
-14:00-14:40
-14:50-15:30
-15:50-16:30
-16:40-17:30
 
 # Job_related
 写一个笔记记录如何调用Cinder_api
@@ -74,6 +41,53 @@ https://www.cnblogs.com/peida/archive/2012/12/17/2821195.html
 
 # python2和3的区别
 
+# 编写一个chrome extension, 用于收录英语单词.
+
+
+
+# 已经完成
+```
+# Pycharm
+搜索快捷键定位和修改. 只用 find-in-path, 我已经改过键了.
+
+如何查看python2和python3的安装位置啊?
+python2, 重装发现 DONE
+
+
 # PyPI是什么?
 是安装包的线上仓库.
 参考: https://blog.csdn.net/weixin_42139375/article/details/82711201
+
+如何设置windows环境pycharm下项目的编码呢? 在setting->editor里.
+
+
+vim的自动缩进和一般配置.
+https://blog.csdn.net/Galaxy_Li/article/details/7994107
+  set nu
+  highlight lineNr ctermfg=red
+  highlight lineNr ctermbg=black
+  colorscheme blue
+  set tabstop=4
+  set expandtab
+  set autoindent
+  set softtabstop=4
+
+dev-ops, ops代表什么?
+dev代表开发, ops代表运维.
+
+
+字符编码问题. 参考:https://www.cnblogs.com/wj-1314/p/8279890.html
+
+## bash-script 学习
+https://github.com/qinjx/30min_guides/blob/master/shell.md
+
+```
+
+# 取消
+```
+# OpenStack
+CloudMan的OpenStack教程: 不可以画上班时间看, 营养价值不高. 而且非常的枯燥, 下午看容易犯瞌睡:
+什么是cps?
+
+和陈绍立的对话梳理:625:
+```
